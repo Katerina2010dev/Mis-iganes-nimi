@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchMethodCall", "SwitchMethodCall\SwitchMethodCall.csproj", "{157FE220-41E4-4027-8E5F-3B2B9A7ABE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157FE220-41E4-4027-8E5F-3B2B9A7ABE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157FE220-41E4-4027-8E5F-3B2B9A7ABE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157FE220-41E4-4027-8E5F-3B2B9A7ABE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157FE220-41E4-4027-8E5F-3B2B9A7ABE05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FD5901-BBD7-4B51-88AB-8789D78A845F}
+	EndGlobalSection
+EndGlobal
